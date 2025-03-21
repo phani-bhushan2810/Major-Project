@@ -1,0 +1,7 @@
+flask>=2.0.1
+tensorflow
+librosa>=0.9.1
+numpy
+soundfile
+scikit-learn
+werkzeug>=2.0.2
